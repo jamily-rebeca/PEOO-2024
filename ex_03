@@ -1,0 +1,6 @@
+nota1=int(input('Digite sua nota do 1° bimestre'))
+nota2=int(input('digite sua nota do 2° bimestre'))
+
+notafinal=(nota1*2+nota2*3)/(2+3)
+
+print("nota parcial: ", notafinal)

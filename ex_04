@@ -1,0 +1,5 @@
+comprimento=int(input('digite o comprimento do retangulo: '))
+largura=int(input('digite a largura do retangulo: '))
+area=comprimento*largura
+perimetro=(comprimento*2)+(largura*2)
+print('area do retangulo: ', area, '; perimetro do retangulo: ', perimetro)

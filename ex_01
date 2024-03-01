@@ -1,0 +1,3 @@
+nome= input('digite seu primeiro nome: ')
+x= print('Bem vindo ao Python, ', nome)
+

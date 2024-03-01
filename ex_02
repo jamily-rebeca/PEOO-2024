@@ -1,0 +1,6 @@
+nome= input('digite seu nome completo: ')
+x= nome.index(" ")
+
+primeiro=nome[:x]
+print("bem vindo ao python, ", primeiro)
+
